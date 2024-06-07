@@ -1,0 +1,17 @@
+.big__title__container {
+  color: #FFFFFF;
+}
+
+.big__title__container > h1 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 100px;
+  font-family: 'segoe UI';
+  display: flex;
+  justify-content: center;
+}
+
+.big__title__container > hr {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
